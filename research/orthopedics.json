@@ -1,0 +1,91 @@
+{
+  "specialty": "骨科（AI 研究分析，非真人會診）",
+  "title": "脊椎結構異常與髖關節疼痛必須分開驗證",
+  "summary": "最確定的是原報告記載多節 Schmorl 結節及胸腰椎椎間盤退化樣變化；2026-09-04 報告提出『疑似腰椎型 Scheuermann disease』，尚不能據此確診，亦不能解釋全部右腿症狀。右腹股溝／前大腿痛且 FADIR 重現相同疼痛，使髖關節來源成為高優先的未完成鑑別。建議由骨科或運動醫學同時完成脊椎—髖關節定位，先看原始 DICOM 與專用髖關節 X 光，再按臨床需要安排髖 MRI／MRA。",
+  "findings": [
+    {
+      "title": "原報告：Schmorl 結節已記錄；Scheuermann 為影像建議",
+      "detail": "2025-08-07 MRI（08-08 報告）列 L1、L3 上終板及 L1、L2 下終板 Schmorl 結節。2026-09-04 MRI 報告列 T11–L5 多處結節、T12–L4 椎間盤 T2 訊號下降，印象為『suggestive of lumbar variant of Schuerumanns disease』。這是影像醫師的疑似診斷，非已證實病因。兩份文字描述的範圍不同，不等於新增結節或病情惡化。",
+      "source": "影像或病理報告/無影像檔_影像或病理報告_2025-2026.txt：第 01、22–23 項（22–23 為同次 MRI 重複上傳）"
+    },
+    {
+      "title": "原病歷：右髖誘發測試重現典型疼痛",
+      "detail": "2025-10-27 至 12-22 病歷反覆列『FADIR:+++(identical Rt ant thigh pain)』，並記右腹股溝及前／內／後大腿痛；SLRT 與 Patrick 陰性、右下肢肌力全滿。多次病歷相同段落可能為沿用紀錄，不能確認每次重新測試。FADIR 是屈髖、內收、內旋誘發測試；陽性支持再查髖關節，但特異性不足，不能單獨確診 FAI 或盂唇撕裂。[Warwick 共識](https://bjsm.bmj.com/content/50/19/1169/)",
+      "source": "元氣診所病歷/病歷轉錄.md：2025-10-27、10-30、12-08、12-22 的 S/O；國際 Warwick 共識（2016）"
+    },
+    {
+      "title": "AI 有限影像檢視：可作定位展示，不能當完整判讀",
+      "detail": "已檢視兩組資料夾的代表性矢狀 T2、2025 矢狀 STIR 與 2026 冠狀 STIR JPEG。可見部分終板凹陷／不規則及上腰椎椎間盤較低訊號，與原報告所述結構型態相容；未作病灶數量、椎體楔形角度、神經孔或脊椎穩定性定量判讀。2026 影像資料夾的 MetaData 日期與 09-04 報告日期不一致，不能直接視為同次檢查，亦不能用此判斷進展。",
+      "source": "MRI 影像/2025/Sag T2 frFSE/I0000026.jpg；MRI 影像/2025/Sag T2 FSE STIR DL/I0000040.jpg；MRI 影像/2026/Sag T2 frFSE/I0000006.jpg；MRI 影像/2026/Cor STIR/I0000032.jpg"
+    },
+    {
+      "title": "原 X 光：終板變化，未提供不穩定結論",
+      "detail": "2026-09-04 X 光原文記 L3 上終板局部侵蝕合併硬化、L1 下終板局部侵蝕及『Narrowed L2 and L3 disk』。後者不是標準明確椎間節段寫法，應請原院釐清。不能只因做過屈伸側位攝影，就說已證實／已排除脊椎不穩定；原文字未作該結論。『erosion』也不能脫離完整影像直接等同感染或發炎病。",
+      "source": "影像或病理報告/無影像檔_影像或病理報告_2025-2026.txt：第 02–04 項，同一段聯合 X 光報告"
+    }
+  ],
+  "differential": [
+    {
+      "name": "多節 Schmorl 結節及胸腰椎椎間盤／終板結構變化",
+      "confidence": "高：原報告已有記載；是否致痛仍未定",
+      "support": "兩份 MRI 文字均描述 Schmorl 結節；2026 報告另有 T12–L4 椎間盤低訊號及 X 光終板硬化。",
+      "against": "存在結構異常不等於症狀來源；這些變化未自然解釋腹股溝痛、整條大腿痛、雙腿麻木或腫脹。原報告未明確說明病灶周圍活動性骨髓水腫。",
+      "next": "請骨科／肌肉骨骼放射科用原始 DICOM 核對節段、STIR 骨髓水腫與疼痛壓痛定位；確認 2026 影像實際日期。Schmorl 向椎體內突出，不能與向椎管突出壓迫神經的椎間盤突出混為一談。"
+    },
+    {
+      "name": "疑似腰椎型／非典型 Scheuermann disease",
+      "confidence": "中：有放射科建議，臨床與形態標準尚待核對",
+      "support": "年輕成人、多節終板及椎間盤變化；2026-09-04 報告直接提出此診斷方向。",
+      "against": "未提供完整站立全脊椎側位、楔形角度、僵硬性後凸或成長期病史。非典型腰椎型未必符合典型胸椎型的後凸表現，不能因無明顯駝背排除，也不能只靠 Schmorl 結節確診。",
+      "next": "骨科審閱原影像並評估站姿、脊柱活動度及矢狀面排列；只有會改變診療時再加站立全脊椎片。病名與疼痛來源分開記錄；不以此標籤直接決定支架、手術或永久運動禁忌。[原始族群研究](https://pubmed.ncbi.nlm.nih.gov/24979145/)"
+    },
+    {
+      "name": "髖關節內疼痛來源：FAI syndrome 或髖臼盂唇病變待排",
+      "confidence": "中：症狀定位線索強，但未見專用髖影像",
+      "support": "右腹股溝與前大腿痛，FADIR 重現相同疼痛；活動／姿勢相關復發。",
+      "against": "沒有骨盆／專用髖 X 光及髖 MRI 的診斷報告；缺內旋活動度、卡住／彈響、步態等資訊。FADIR 並不特異，亦無法分出盂唇、軟骨、髂腰肌或其他病因。",
+      "next": "優先安排髖關節完整理學檢查及站立骨盆 AP、45° Dunn 影像；X 光陰性或不足而臨床持續懷疑時，由醫師選專用髖 MRI 無靜脈顯影或 MRA。若仍無法區分髖與腰來源，可討論影像導引局部麻醉診斷注射；不是直接安排手術。[2025 共識](https://pmc.ncbi.nlm.nih.gov/articles/PMC11758551/)；[ACR](https://acsearch.acr.org/docs/69425/Narrative/)"
+    },
+    {
+      "name": "機械性／椎間盤或終板相關下背痛合併轉移痛",
+      "confidence": "中低：合理但缺乏特異定位證據",
+      "support": "跳繩負荷後發作、咳嗽及用力誘發、腰臀大腿疼痛與已知椎間盤終板異常。",
+      "against": "咳嗽痛非椎間盤病的確診測試，FADIR 及腹股溝痛仍須獨立處理；正常肌力不代表沒有疼痛或排除全部神經問題。",
+      "next": "當面區分中線腰痛、髖關節痛與神經根性症狀，完成肌節、皮節、反射及上腰椎相關檢查；避免未確定疼痛來源即作侵入性椎間盤處置。"
+    },
+    {
+      "name": "髂腰肌／內收肌等髖周軟組織負荷問題",
+      "confidence": "低至中：候選診斷，尚無直接檢查證據",
+      "support": "髖屈動作不適／主觀無力、運動負荷與腹股溝痛可符合。",
+      "against": "資料未含抗阻髖屈、內收、局部壓痛、動態彈響測試或專用超音波；無法從腰 MRI 排除或確診。",
+      "next": "依理學檢查決定是否安排動態超音波或髖 MRI，與關節內病變、神經根性疼痛一起比較。"
+    }
+  ],
+  "recommendations": [
+    "就診優先序：骨科／運動醫學或熟悉髖—脊椎問題的復健科，完成髖關節定位，同時請放射科複閱原始脊椎 DICOM；若存在客觀神經缺損，神經內外科優先性提高。",
+    "攜帶：2025、2026 原始 DICOM 與原報告、發作時疼痛分布圖、是否卡住／彈響、可走多遠、上下樓與坐站影響、每次腫脹照片及同位置腿圍。記錄『痛到不敢動』與『即使不痛也無法出力』的差異。",
+    "不要將腰椎 MRI 當成髖盂唇或股骨頭已正常；其視野與序列不能替代專用髖檢查。",
+    "在診斷未釐清時，避免反覆做會重現劇痛的深屈髖內旋、跳躍及高負荷；以可耐受日常活動及個別化漸進復健為主。僅憑影像標籤，不足以支持手術、PRP 或長期固定。[2025 共識](https://pmc.ncbi.nlm.nih.gov/articles/PMC11758551/)",
+    "追蹤以功能與症狀為主：每週固定記疼痛 0–10、行走耐受時間、坐站耐受、睡眠及神經症狀；是否重拍影像取決於新臨床問題或治療決策，不預設固定 MRI 頻率。"
+  ],
+  "redFlags": [
+    "新出現尿滯留／失禁、會陰麻木或快速惡化腿部無力：立即急診，不等例行骨科回診。",
+    "急性嚴重髖／腹股溝痛合併無法承重、發燒或明顯紅熱：當日評估排除骨折或感染。",
+    "單腿新發明顯腫脹、紅熱或合併胸痛／呼吸困難：急診評估；2025 陰性靜脈超音波不能排除新事件。"
+  ],
+  "limitations": [
+    "本檔是 AI 多角度資料研究，不是真人醫療團隊診察；信心標籤表示現有資料支持程度，非經驗證的診斷機率。",
+    "只檢視代表性 JPEG；非完整 DICOM 放射判讀，不能排除神經壓迫、細微骨髓水腫、骶髂關節炎或髖關節疾病。",
+    "2026 影像 MetaData 與報告日期不一致，未完成 accession／DICOM 對照；兩年報告範圍差異不能當作進展證據。",
+    "2026 報告中的 0.7 cm L2 高 T1/T2 病灶由原放射科判為 lipoma；本檔未獨立確診，不因偶然小病灶直接歸因右腿痛。",
+    "截至 2026-09-25 已針對相關原始研究、專業組織共識及官方影像適應準則查核；最新出版年份不一定代表最高證據。Schmorl 症狀歸因及腰椎型 Scheuermann 的定義仍有不確定性。"
+  ],
+  "references": [
+    {"title":"AAC–CASEM：Management of Labral Tears in the Hip: A Consensus Statement","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC11758551/","date":"2025-01-23","note":"40 位專家 Delphi 共識，支持症狀＋理學檢查＋髖影像及必要時診斷注射；屬專家共識，非個別患者診斷證明。"},
+    {"title":"ACR Appropriateness Criteria: Chronic Hip Pain","url":"https://acsearch.acr.org/docs/69425/Narrative/","date":"Revised 2022；查核 2026-09-25","note":"先做骨盆／髖 X 光；疑 FAI、髖發育問題或盂唇病變且 X 光未定時，專用 MRI 或 MRA 為適當選項。"},
+    {"title":"The Warwick Agreement on femoroacetabular impingement syndrome","url":"https://bjsm.bmj.com/content/50/19/1169/","date":"2016","note":"FAI syndrome 需症狀、臨床徵象及影像三者；FADIR 敏感但不特異。"},
+    {"title":"Radiological signs of Scheuermann disease and low back pain: 188 hospital staff with 6-year follow-up","url":"https://pubmed.ncbi.nlm.nih.gov/24979145/","date":"2014-09-15","note":"原始回溯族群研究：SD-like 影像不必然對應疼痛；不能直接推估本人的惡化風險。"},
+    {"title":"Schmorl’s nodes and low-back pain: MRI in symptomatic and asymptomatic individuals","url":"https://pubmed.ncbi.nlm.nih.gov/7749909/","date":"1995","note":"小型原始研究，活動性疼痛與鄰近骨髓水腫線索相關；不能以本案代表性 JPEG 的陰性印象作排除。"},
+    {"title":"Scoliosis Research Society: Developmental Kyphosis","url":"https://www.srs.org/Patients/Conditions/Kyphosis/Developmental-Kyphosis","date":"未標示；查核 2026-09-25","note":"官方典型結構性 Scheuermann 後凸衛教；不可直接套用為腰椎非典型型態的唯一診斷標準。"}
+  ]
+}

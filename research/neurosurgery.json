@@ -1,0 +1,90 @@
+{
+  "specialty": "神經外科",
+  "title": "神經外科研究觀點：先找症狀相符的壓迫與神經定位，現階段未建立手術靶點",
+  "summary": "既有資料確實支持多節段椎體終板／Schmorl 結節變化，但報告未指明可解釋腿麻、無力或步行受限的神經根／馬尾壓迫。這代表手術適應症尚未建立，不代表已完整排除神經疾病。2026 年報告提及頸痛、雙腿麻弱與間歇跛行，應以近期完整神經學檢查重新定位，按結果決定專用頸／胸 MRI 或含針極肌電圖的電生理檢查。此為 AI 文獻與病歷研究整理，並非執業醫師會診或確診。",
+  "findings": [
+    {
+      "title": "Schmorl 結節向椎體內突出，不能直接等同向椎管後方突出壓迫神經",
+      "detail": "2025 年腰 MRI 報告描述椎間盤進入 L1、L2、L3 的部分終板；2026-09-04 文字報告描述 T11–L5 多發 Schmorl 結節與 T12–L4 椎間盤 T2 訊號降低，提示腰椎型 Scheuermann 變化。這些可能與軸性腰痛有關，但不能單憑名稱認定是整條腿放射痛、雙腿麻弱的唯一來源。尚無足以建立神經減壓或矯形手術適應症的資料。",
+      "source": "影像或病理報告/無影像檔_影像或病理報告_2025-2026.txt：第 01、22–23 筆；SRS Scheuremann's Kyphosis"
+    },
+    {
+      "title": "現有報告沒有記載明確外科壓迫靶點；這不是完整陰性判讀",
+      "detail": "兩份腰椎 MRI 文字報告未指明椎管狹窄、椎間孔狹窄或與症狀吻合的神經根受壓。2026 報告中的「可見脊髓無明確異常訊號」限於掃描涵蓋區域，不能排除頸／胸髓問題，也不能用訊號正常排除所有壓迫。已檢視 2026 資料夾 Sag T2 frFSE/I0000007.jpg 代表截圖，僅可輔助理解終板形態；單張 JPEG 不能完成椎間孔、各神經根或全套脊髓判讀。",
+      "source": "2025、2026 腰椎 MRI 文字報告；MRI 影像/2026/Sag T2 frFSE/I0000007.jpg；NICE NG59 1.3.8"
+    },
+    {
+      "title": "2025 年正常肌力不能替代 2026 年神經學檢查",
+      "detail": "診所 2025 年 10–12 月反覆記錄右下肢肌力全正常、SLRT 陰性，但 FADIR 強烈誘發同樣前大腿疼痛。疼痛造成不敢出力與真正神經性肌力下降需要區分；陰性 SLRT 不足以排除所有腰神經根病，尤其非典型或上腰椎分布。2026 MRI 申請臨床資料另寫雙腿麻弱、間歇跛行與頸痛，需更新肌力、反射、病理反射、感覺平面、步態和手部精細動作。",
+      "source": "元氣診所病歷/病歷轉錄.md；影像報告第 01 筆 Clinical Information"
+    },
+    {
+      "title": "正常 NCS 不等於完成神經根排除診斷",
+      "detail": "2025-12 的完整報告為腓神經、脛神經運動傳導、腓腸神經感覺傳導、H 反射與 F 波正常。未見針極肌電圖的肌肉採樣、靜止自發電位或運動單位資料。AANEM 指出疑似神經根病需整合針極肌電圖與 NCS；針極 EMG 特異度較高但敏感度有限，即使結果正常也不能排除純感覺性或輕度病灶。",
+      "source": "影像報告第 14–21 筆（同一 NCS 內容重複登錄）；AANEM Recommended Policy / Radiculopathy Monograph"
+    },
+    {
+      "title": "L2 椎體小脂肪性病灶與時間配對均須避免過度解讀",
+      "detail": "2026 文字報告將 L2 內 0.7 cm、T1/T2 高訊號病灶判為 lipoma，未描述椎管延伸或神經壓迫，現有資料不足以把它當成腿症狀病因。2026 資料夾 MetaData 的 Study 為 2026-08-07 11:53:04，而文字報告就醫日期為 2026-09-04；在取得院方檢查識別碼與完整 DICOM 前，不應強行視為同次檢查，也不能由結節記載範圍差異推論疾病惡化。",
+      "source": "MRI 影像/2026/MetaData；影像報告第 01 筆"
+    }
+  ],
+  "differential": [
+    {
+      "name": "終板／椎間盤相關軸性腰痛，伴 Scheuermann 樣腰椎變化",
+      "confidence": "結構變化：高；是主要疼痛來源：中；解釋所有腿症狀：低",
+      "support": "兩個年度報告均記載終板 Schmorl 結節；2026 報告另有椎間盤訊號降低及 Scheuermann 腰椎變型疑慮。",
+      "against": "未有疼痛位置與活躍骨髓水腫、後凸量測或神經壓迫的完整對照；症狀包含腹股溝與全大腿痛、FADIR 誘發痛、雙腿麻弱，難由此單一解釋。",
+      "next": "由脊椎專科調閱完整原始影像，核對有無活躍終板水腫、站立姿勢／後凸、局部壓痛與負荷相關疼痛；先整合保守照護。"
+    },
+    {
+      "name": "腰神經根刺激／神經根病（含上腰椎），尚未證實壓迫性病因",
+      "confidence": "中低；需與髖關節等疼痛來源並列辨別",
+      "support": "腰痛合併放射痛、早期咳嗽／噴嚏或用力誘發，曾主述髖屈無力。",
+      "against": "2025 肌力正常、SLRT 陰性、疼痛跨多分布；報告未記載相符神經根壓迫；FADIR 可重現原痛。正常 NCS 本身不能排除。",
+      "next": "新神經定位檢查；若持續局部肌力／反射差異、麻木或影像與症狀不符，討論含相關近端肌與旁脊肌的針極 EMG，並複閱各節腰椎轴向及椎間孔影像。"
+    },
+    {
+      "name": "腰椎狹窄造成神經性間歇跛行",
+      "confidence": "低；臨床描述待驗證",
+      "support": "2026 報告臨床資料寫 intermittent claudication，先前有久站後症狀。",
+      "against": "年輕、報告未記載椎管狹窄，尚無步行距離、坐下／彎腰緩解與騎車耐受的完整資料；單用『跛行』字樣不能確診。",
+      "next": "記錄誘發距離、姿勢依賴性、緩解方式，完成脈搏、髖關節和神經檢查；只有影像與症狀吻合且適當保守治療未改善時，才討論減壓。"
+    },
+    {
+      "name": "頸／胸髓病變（包含壓迫性或非壓迫性脊髓病）",
+      "confidence": "目前證據不足；排除優先度取決於新神經徵象，不能用低置信度忽略急症",
+      "support": "2026 申請資料同時描述頸痛與雙腿麻弱／步行問題；腰椎檢查不能完整評估頸胸髓。",
+      "against": "目前沒有反射亢進、Babinski、Hoffmann、陣攣、感覺平面或手部功能的正式記錄，尚不能推定已存在脊髓病。",
+      "next": "若檢查發現上運動神經元徵象、痙攣步態、手笨拙、軀幹感覺平面，或腰椎無法解釋持續雙側症狀，安排相應節段的專用頸／胸 MRI；急性或迅速進展時急診評估。"
+    }
+  ],
+  "recommendations": [
+    "近期門診先更新現在的症狀與神經檢查，明確記錄是疼痛限制出力或可重現的客觀無力、是否雙側、是否持續惡化；2025 年正常檢查不能保證目前仍正常。",
+    "帶原始 DICOM、正式 MRI 報告與檢查識別碼至脊椎／神經專科，釐清 2026-08-07 metadata 與 2026-09-04 報告日期；請醫師逐節核對椎管、側隱窩、椎間孔、圓錐與馬尾。",
+    "若有脊髓病徵象或持續無法由腰部解釋的雙腿症狀，按神經定位選擇專用頸／胸 MRI；腰 MRI 的定位片或有限可見脊髓不等同完整頸胸 MRI。是否加顯影劑由懷疑壓迫、感染、腫瘤或發炎等原因決定。（ACR Myelopathy）",
+    "持續疑似神經根病而臨床與影像不一致時，討論針極 EMG 加 NCS；醫師依症狀肌節選肌，不應只是重做相同遠端 NCS 後宣稱已排除全部神經病。（AANEM）",
+    "Schmorl 結節或 Scheuermann 名稱本身不構成手術適應症。減壓需可解釋症狀的影像病灶，並整合神經缺損與保守治療反應；矯形手術亦需有實際變形嚴重度與功能影響評估。現有資料不足以建議手術。（NICE NG59；SRS）"
+  ],
+  "redFlags": [
+    "若現在新出現尿不出來、排尿感覺或尿意異常／失禁、會陰或肛門周圍麻木、糞便控制喪失，尤其合併腰腿症狀：立即急診，告知疑似馬尾症候群，不等下次門診或自行觀察至某個時限。（AANS）",
+    "若新出現或快速加重的客觀肢體無力、雙腿步態不穩至無法行走，或伴軀幹感覺平面、手腳功能一起變差：立即就醫評估脊髓／神經急症；既往 MRI 或 NCS 正常不能抵銷新症狀。",
+    "嚴重持續背痛合併發燒、近期感染或重大外傷，加上神經症狀，應急診排除感染、骨折及壓迫等病因。（AANS Herniated Disc）"
+  ],
+  "limitations": [
+    "這是 AI 專科研究分工，不是多位執業醫師的實際會診；無法進行觸診、肌力反射測試或作出正式診斷。",
+    "未完成全套 DICOM 放射判讀；影像評估僅檢視一張代表性 JPEG，不能由單張影像判斷所有神經壓迫。報告未提及的項目保持未知。",
+    "2026 資料夾影像日期與文字報告日期矛盾，未經院方確認不得跨年定量比較或宣称惡化。",
+    "鑑別排序代表現有資料的支持程度，不是經驗證機率；少見但需急救的疾病不會因排序較低而降低處置優先度。",
+    "最新線上資料查核日 2026-09-25；引用可核對的官方學會／指引內容，未因單純較新發表就假定證據較可靠。"
+  ],
+  "references": [
+    {"title":"NICE NG59：Low back pain and sciatica — Recommendations","url":"https://www.nice.org.uk/guidance/ng59/chapter/Recommendations","date":"2020 更新；查核 2026-09-25","note":"1.3.8：非手術治療未改善且影像符合坐骨神經症狀時，考慮減壓。"},
+    {"title":"ACR Appropriateness Criteria：Myelopathy","url":"https://acsearch.acr.org/docs/69484/Narrative/","date":"線上現行版，查核 2026-09-25","note":"急性及慢性／進行性脊髓病，相關脊椎部位 MRI 為 Usually Appropriate。"},
+    {"title":"AANEM：Recommended Policy for Electrodiagnostic Medicine","url":"https://www.aanem.org/docs/default-source/documents/recommended-policy-2023.pdf?sfvrsn=ac21900d_2","date":"2023 policy；查核 2026-09-25","note":"NCS 單獨不足以診斷神經根病，需整合針極 EMG。"},
+    {"title":"AANEM：Evaluation of suspected radiculopathy, Part II","url":"https://education.aanem.org/AssetListing/Monograph-Evaluation-of-persons-with-suspected-lumbosacral-and-cervical-radiculopathy-Electrodiagnostic-assessment-and-implications-for-treatment-and-outcomes-Part-II-2401/MUS27008-7972","date":"查核 2026-09-25","note":"針極 EMG 具較高特異度、有限敏感度；勿過度診斷細微異常。"},
+    {"title":"Scoliosis Research Society：Scheuremann's Kyphosis","url":"https://www.srs.org/Patients/Conditions/Kyphosis/Scheuremanns-Kyphosis","date":"查核 2026-09-25","note":"站立 X 光評估結構後凸；治療取決於變形與症狀，結節名稱不等於手術。典型胸椎角度門檻不能直接套用腰椎變型。"},
+    {"title":"AANS：Cauda Equina Syndrome","url":"https://www.aans.org/patients/conditions-treatments/cauda-equina-syndrome/","date":"2024-04-05；查核 2026-09-25","note":"新排尿障礙、鞍區感覺異常、括約肌與肢體功能異常需立即評估。"},
+    {"title":"AANS：Herniated Disc","url":"https://www.aans.org/patients/conditions-treatments/herniated-disc/","date":"查核 2026-09-25","note":"重要肢體無力、大小便控制或會陰感覺異常，以及感染／外傷等背景需急診影像與評估。"}
+  ]
+}

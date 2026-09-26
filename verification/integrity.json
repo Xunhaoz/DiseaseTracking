@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-26",
+  "counts": {
+    "images": 179,
+    "series": 15,
+    "reports": 23,
+    "reportGroups": 7,
+    "labs": 44
+  },
+  "specialties": 4,
+  "webpThumbnailsVerified": 183,
+  "embeddedAssetsVerified": 373,
+  "standaloneScriptSyntax": "pass",
+  "originalImageCopies": "179/179 sha256 identical",
+  "convertedPhotos": "4/4 decoded",
+  "sourceManifest": "all original source hashes unchanged"
+}

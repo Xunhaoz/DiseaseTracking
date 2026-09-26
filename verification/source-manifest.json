@@ -1,0 +1,942 @@
+[
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000000.jpg",
+    "bytes": 24378,
+    "sha256": "3fffccbeca0fa1c38f639546e4a0dbe417e5bca17aa2acb65a756583c368bc79"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000001.jpg",
+    "bytes": 24729,
+    "sha256": "629279626b9c8be09bd1e2dbf65679b1fac01af103d39b1b771a502ff0f1aa00"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000002.jpg",
+    "bytes": 23583,
+    "sha256": "7845263e5cc7dd4667ea23caf3d376e2b73eab77a21a9827c825803ceba7bb28"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000003.jpg",
+    "bytes": 24794,
+    "sha256": "21aa934d2378d8e2969cafc05dc2aa4a814c663aac7b0454e2cd95f362dd708a"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000004.jpg",
+    "bytes": 24208,
+    "sha256": "b091b047fb340647223875a0f95346768848a70aeb4fbed56aba565446efa736"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000005.jpg",
+    "bytes": 25890,
+    "sha256": "2432f9c85caff09d6501ff390f41125527c0f876c2c30791a561b51da3a9f58c"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000006.jpg",
+    "bytes": 26227,
+    "sha256": "11816f1110d32228023742f26c1e7c9c47f2e11f8a962a4b24b8beb434a65886"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000007.jpg",
+    "bytes": 24357,
+    "sha256": "1a3cc66513eca7d8b699ebdfca4d64ba737222a919a8177ffc8676bb52ebbe8a"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000008.jpg",
+    "bytes": 25455,
+    "sha256": "bf73c68a758fb5b9d619af0b19b464a5be297e02d6c1a60e58d40231ade85a54"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000009.jpg",
+    "bytes": 25412,
+    "sha256": "b2c31309345fe124bd4c02e682d5b3f6c94492e6abb93dff3553078f666dcbef"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000010.jpg",
+    "bytes": 24266,
+    "sha256": "af7afcb687ca133399d12f7053f49d02d697cf7f05d44b64846adec34a34c8dd"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000011.jpg",
+    "bytes": 23264,
+    "sha256": "2bc1e36b071a98c6187068de041b31e862e170ac920f5c633a48bb7fc8e32ea0"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000012.jpg",
+    "bytes": 40196,
+    "sha256": "c8290071860bfffaebe9c87d1b5d722c7b98d9c2c8006f298dd267685a1bc67a"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000013.jpg",
+    "bytes": 46586,
+    "sha256": "0f543828835f6beaf760aa787506b6ed67e0f185a864b0f40697d95c4fa07cc5"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000014.jpg",
+    "bytes": 51072,
+    "sha256": "3686e9e049d422e9964a503e9535c0a8619d2d67c8679b913ee9d0d1ccf7db9c"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000015.jpg",
+    "bytes": 52510,
+    "sha256": "9dd352d15949d859935203c0747a800284e1f39ec8749bd8c31ef592a9bce75c"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000016.jpg",
+    "bytes": 56606,
+    "sha256": "21f78afb906023cf72fe00625572b1068789cd153e1c8726342d5f43009812cc"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000017.jpg",
+    "bytes": 58999,
+    "sha256": "a60c120ae9e355e8babfe40061247a08ba914feb0d4008985b07cfc02edc984d"
+  },
+  {
+    "path": "MRI 影像/2025/3-Plane Localizer/I0000018.jpg",
+    "bytes": 63407,
+    "sha256": "0615f62069fbbaee9bb14d75d8eceefb6e1b9b77923b5f6ca23a42bd13e034a2"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000061.jpg",
+    "bytes": 61787,
+    "sha256": "51b3c490d3f0d1bd4888a0a58ecd2bd1d1fc44fcf895113ceaa8007f1b3a8717"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000062.jpg",
+    "bytes": 61307,
+    "sha256": "f482f262e71b1fa3bb69a361b0a3e9cb81ca41e118eadad91bee38b4f479b52e"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000063.jpg",
+    "bytes": 59462,
+    "sha256": "9e06fedebaec898f3b06312515b5544ed0eefef3bfc0741553a2e62364253a79"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000064.jpg",
+    "bytes": 59942,
+    "sha256": "1e44c5f7704111e1802c81471ac048c45958ace588fb3028224e5b4bd3bed14f"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000065.jpg",
+    "bytes": 59131,
+    "sha256": "d0c34cee2edb625a53805029e6e0d999a69a2fa3799ce7c7ecdaf4cd282cbb03"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000066.jpg",
+    "bytes": 60005,
+    "sha256": "2849264bcaca9c385747f2b8949c20f3266826225bc62e89d223462532e359e4"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000067.jpg",
+    "bytes": 58725,
+    "sha256": "a1ba9d08e2a784a09288b80d2dc6aabe2a36f05531ae424277bae293207aa393"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000068.jpg",
+    "bytes": 57841,
+    "sha256": "b3a4a41508861d915b380f8424bb3165f85c9cddbd68f28d1d0d4af8c1d93b0f"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000069.jpg",
+    "bytes": 58484,
+    "sha256": "5a568816794e7e85462bbfd49115ae0bd1542f0d7b850b860a3ad4d5e295bda0"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000070.jpg",
+    "bytes": 58120,
+    "sha256": "905ff23fb9e6d897e9d8c4b84370d8d31f6049d56a0a35e5924a9fc6c467174d"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000071.jpg",
+    "bytes": 61229,
+    "sha256": "4b8fd56869f36eb448baa05e03fc627b07be6ceb966b526164ab85657d92d077"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000072.jpg",
+    "bytes": 60500,
+    "sha256": "e69b3f3bcdd267c22bee200e4dbf7882109bf87877e6f4058a14bfa973461872"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000073.jpg",
+    "bytes": 59844,
+    "sha256": "2b91535510ed69c1c299a80fbd43a3a2cfb850f1b1994a2b9fe2e79574233fc2"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000074.jpg",
+    "bytes": 58375,
+    "sha256": "b5ef78e732e6c4f233a6d975ca3247dfefdbd5b3eb47b70479c27e77e98c5e1d"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000075.jpg",
+    "bytes": 58291,
+    "sha256": "a60699cf21ee28600ecbb5b014c0e31f098a485ae8c1b4a2e2d6f55e18d32f94"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000076.jpg",
+    "bytes": 58458,
+    "sha256": "93844e9a663f34290070a7c40b8ebd2ef172362f2fe4f17c06323ff27d99f277"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000077.jpg",
+    "bytes": 60306,
+    "sha256": "10c85994ed43554ee47fcb0ef48eb8f57fbbe88bbdec610fc316eac138cdd5a1"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000078.jpg",
+    "bytes": 60151,
+    "sha256": "966586874e371636dd899c7a9eb92eef4fc71309b46ee7cd006da52576c01f01"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000079.jpg",
+    "bytes": 59205,
+    "sha256": "69ed0d3cd562de65f40497a9356f482abcd1cd240ec43581d077b315b4a744ce"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000080.jpg",
+    "bytes": 60163,
+    "sha256": "bb90d5a3147a565e0d2ae9d0244eeb5725723efa10c01fb86003644179b54a93"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000081.jpg",
+    "bytes": 54665,
+    "sha256": "3629800cba1e9bf27cd91f975569eb0773656c5af9658cbf65ba3e0d16a30d48"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000082.jpg",
+    "bytes": 55551,
+    "sha256": "60d08fca82a870fa7b0eaf710363f88e763a24b41cf95f8ee8858f664768896e"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000083.jpg",
+    "bytes": 60832,
+    "sha256": "435d25d4cf6e1b9566a6dc81e08954db535ff9e2d3b175b624b8f4b9596acc9d"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000084.jpg",
+    "bytes": 61101,
+    "sha256": "410704d23a87ba0ac8157357c06a04fc57981e31c20235631b114fa5f5d6b997"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000085.jpg",
+    "bytes": 60587,
+    "sha256": "ba2001301b440a2014c28200eb42da642973fec0ad58c4d84f2ed0e3fea617d3"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000086.jpg",
+    "bytes": 60514,
+    "sha256": "34c959af64b05628caf92269b9c2066c964a525489cefc01f27f97ef17210dc4"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000087.jpg",
+    "bytes": 59535,
+    "sha256": "378aea7ae89401e25ee9644020809befb19cd6a81f6f8366baaded7b75572d70"
+  },
+  {
+    "path": "MRI 影像/2025/Ax T2 FSE DL/I0000088.jpg",
+    "bytes": 60269,
+    "sha256": "b779da0e61b15bf7d24dedf44cc584490c6627f67542ac476d1baa7c2841026f"
+  },
+  {
+    "path": "MRI 影像/2025/MetaData",
+    "bytes": 143,
+    "sha256": "4737f05e126a5a5b9e4d00eaf5940533c8a664ebe1c2c1fd375f08a9141458c3"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000047.jpg",
+    "bytes": 51282,
+    "sha256": "3274f1c2c09c0bc23c53417bd776283cf0831848380df4ecf880349b974ec211"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000048.jpg",
+    "bytes": 51207,
+    "sha256": "5b8b2c9cd879ee7deecf7d4e6519cc7d8785b578f2d2d34fc54d61ab1ab66184"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000049.jpg",
+    "bytes": 52227,
+    "sha256": "f536ede7d477c67ceac1760b2abb478989e939da7865a9c9d693e85a4a487683"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000050.jpg",
+    "bytes": 53435,
+    "sha256": "74712ab83f4d4981cb1aa67dbb33669921a4854da3d1c7d547aeedb74cec69b1"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000051.jpg",
+    "bytes": 53663,
+    "sha256": "bcb0607bb808dd2805f25defaa824b0d2d3d9b0365cb32bbca0dc74dc44ea571"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000052.jpg",
+    "bytes": 53741,
+    "sha256": "4cd729db66264b9c372b796e79d40fcef330bb8e8c6ada90c844d77aec41fd35"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000053.jpg",
+    "bytes": 53195,
+    "sha256": "4a9e6aa4f607c4b0a37cce04de4484e3c1588f04dafb7adf557e6c340118c797"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000054.jpg",
+    "bytes": 53545,
+    "sha256": "f52be96ef9c2b1b3d98079975aa6b6c0d8775f5733db6d273cbf3f14ddecc758"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000055.jpg",
+    "bytes": 54284,
+    "sha256": "9378fb09ad321f44ea38836bfc42ff6bec69a430144c4ccfaa4d9d841094f266"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000056.jpg",
+    "bytes": 53688,
+    "sha256": "2e92e7d52c951148b9e837cebef77b43221c421c89d87f04db8e0f42b43a3cd2"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000057.jpg",
+    "bytes": 54020,
+    "sha256": "08dbafc8581e08693738730a3786b8a386183453110c10a015a7f89475f320d7"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000058.jpg",
+    "bytes": 54938,
+    "sha256": "c3e9aaab1dd3d9bb9d04df47b59e4e984cdff2ab06d9a625b970b3d6cdb0c5ae"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000059.jpg",
+    "bytes": 54623,
+    "sha256": "d2077adb248f1c0cf0f1ce114e86828ea2f0183e6b14a05ad448f16bd4a46873"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T1 FLAIR/I0000060.jpg",
+    "bytes": 52167,
+    "sha256": "d6578c07e2b40a6f47f31008d3c425a6b45666dc20fed313caddbf5102a99668"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000033.jpg",
+    "bytes": 51629,
+    "sha256": "e4ae3b7ed5d72de6cf4e81e39691c3e255db6c6e00eba2a127ef41c0746b66af"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000034.jpg",
+    "bytes": 51453,
+    "sha256": "7acfae9aa16ecf66a5f8924238bd0ae44f59c5b376031343860c08e599322dfe"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000035.jpg",
+    "bytes": 50280,
+    "sha256": "4ebe2e11aa4e4a2521a740404205311641f21123279690af15a4dea300abaf3e"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000036.jpg",
+    "bytes": 51659,
+    "sha256": "5597c9aad2762ad90f9d163d5a77765f2b19b706e16df478f4173c2324f7c765"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000037.jpg",
+    "bytes": 52173,
+    "sha256": "2d59fe78db7e3f2673a24a28fbfb3412b3ead1877438501046ce07cb4ff95160"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000038.jpg",
+    "bytes": 52726,
+    "sha256": "098ff9e97cd4705634acb750bf759f741e335a03ee43750ab5dfdd58cbad939a"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000039.jpg",
+    "bytes": 53602,
+    "sha256": "e05239e030b0b2f03e9c954c4a74b99d3498845d72c2af385fb335b8f3c2998e"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000040.jpg",
+    "bytes": 53773,
+    "sha256": "cfb3bf8d16c0536233c5967d5bd26d7bb72f9dac3fde21ff0b719a350dd690a5"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000041.jpg",
+    "bytes": 52745,
+    "sha256": "04745e57ab1c3476e3ac7ce5523f2be303c0148f0efb402a48df29a6d8656f47"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000042.jpg",
+    "bytes": 51817,
+    "sha256": "ce1b8ddfb36895ce918d66aea6062256794658f9222358e3e4de11ca10fde504"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000043.jpg",
+    "bytes": 51707,
+    "sha256": "d84e7f9dd9b6a70a81c0756867c6930c4dbbce4e61b9f5cebbebb2a173fb0964"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000044.jpg",
+    "bytes": 52074,
+    "sha256": "c5c02e6a4198e83028abe1259ec3a83129303c93bf6c51eef238d942f8824e17"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000045.jpg",
+    "bytes": 51184,
+    "sha256": "5ea8ab177f708ad7596e7d0c879bdea2f1d48cf80be920039ef6bb33049bbe68"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 FSE STIR DL/I0000046.jpg",
+    "bytes": 50675,
+    "sha256": "f119e4a12b3ea9bf3acad32d6b22349d16dd0f795c8d920a78809980e2873f99"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000019.jpg",
+    "bytes": 52145,
+    "sha256": "36843520fa9b776cb5988d43fad2ca186d261b1fcd5fa8db5189e249658370a7"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000020.jpg",
+    "bytes": 51485,
+    "sha256": "c978f90d398fc88a02cfd1886ccb212dbdbe701e096573d7d4d696e0b3fb5cc0"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000021.jpg",
+    "bytes": 52721,
+    "sha256": "be24a33faf6d7db70758430a0be8d0a99a64a049c3a054d965e0996511fe4d50"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000022.jpg",
+    "bytes": 54245,
+    "sha256": "18b5fbaa57e1e8882808808946ac6e75705dac91c62acc7a2adace345fbe5d52"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000023.jpg",
+    "bytes": 54907,
+    "sha256": "34f726cc752c770f8b6b6625209a96d04d44bde2ed4d10b466709fd9b8642d4d"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000024.jpg",
+    "bytes": 55486,
+    "sha256": "f263d8fed7fc49bccf50e814c8a5fac3143a113801ab6334ef5bff7cadc77655"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000025.jpg",
+    "bytes": 56632,
+    "sha256": "d53e93702f68869cf440a2b5de37f9c93d7eb7fd1c338bdfaf00e49d941c16a9"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000026.jpg",
+    "bytes": 56853,
+    "sha256": "ce96212306e005ccca6c461f46116c76df2c97cd777b83765eed723bb7127254"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000027.jpg",
+    "bytes": 56408,
+    "sha256": "ed301339dc23abdb625358df22631509cd9681387921d2eee1182c2bd66beeaa"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000028.jpg",
+    "bytes": 54634,
+    "sha256": "8b585261a52090b561302bdb416e281b7b3b1684c8596591fd3ad584a98c45e3"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000029.jpg",
+    "bytes": 54814,
+    "sha256": "e7a72b723d7bb8b1a5424fb45c0b367c7ed49284c43f71d81acb25d6bd5118f2"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000030.jpg",
+    "bytes": 55523,
+    "sha256": "6e40e748130aaa45bb43774349891f54a72cae7bcef6e7afeb4a8f1126bce814"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000031.jpg",
+    "bytes": 54413,
+    "sha256": "0ba24bade2706f913f05ad81b888db6401a186e733a7e24e336183dc7bf98b97"
+  },
+  {
+    "path": "MRI 影像/2025/Sag T2 frFSE/I0000032.jpg",
+    "bytes": 53651,
+    "sha256": "4575e1822304c146415f448157fb9fbed238cde1b67b4181ca4f809730cebf4e"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000089.jpg",
+    "bytes": 34770,
+    "sha256": "4ffb5701edcfc19938eb28e0bba0670614cc6bd8aff7468fbe256ccc7c38647d"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000090.jpg",
+    "bytes": 34523,
+    "sha256": "a024e03cee363d701d49400c80d1c41cc5e93274c2504a000ffef0b91a9cb4ae"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000091.jpg",
+    "bytes": 34859,
+    "sha256": "832f8b1c73edfd9f90133520a4d96b872d04302acbd348c75ad465c78190d0a7"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000092.jpg",
+    "bytes": 36135,
+    "sha256": "bbea815092cbf303485b0c21fed1818386b45ceafbac1a91bfcb6cf9ad26db1a"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000093.jpg",
+    "bytes": 37360,
+    "sha256": "d69273ed4b78c769ffbab49f0c3525c09ff5877a1377b3ef2e18835f297eccc9"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000094.jpg",
+    "bytes": 38014,
+    "sha256": "55c899af563e4687167dab8fe0a036a6ff03fafcc191e21aeb32d612c8111948"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000095.jpg",
+    "bytes": 39724,
+    "sha256": "fcdfe2c1d6a212050e6b7d2e7489b9972b23250305a9d6190fab9c8aa84bcf29"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000096.jpg",
+    "bytes": 37118,
+    "sha256": "70e85028b54731779fb619407e382fb7ab16af7b8e294a3a90bffba05649f6ee"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000097.jpg",
+    "bytes": 37011,
+    "sha256": "1ac370ceb55442607c46c900bce621826633c302c5f78699aeb88a2091dbab1b"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000098.jpg",
+    "bytes": 36767,
+    "sha256": "071189dc0de9d9aba9d1fdc61eab7042e4420d15561407d4be0b252173928806"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000099.jpg",
+    "bytes": 37278,
+    "sha256": "fc68348f4b1f5b04b3d062c38e6423ba91f53a7f613a53fc819d0696ec5d038f"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000100.jpg",
+    "bytes": 36049,
+    "sha256": "f1694256a9ca2c49848c5333c76770e4459d78a5687ab63cfb69e57e010df2c1"
+  },
+  {
+    "path": "MRI 影像/2025/Sag loc up SSFSE/I0000101.jpg",
+    "bytes": 36274,
+    "sha256": "f6e107301a03bbe4a7356aa9e9261d825e55977c3f24f8837938940ee0bf181b"
+  },
+  {
+    "path": "MRI 影像/2025/Screen Save/I0000102.jpg",
+    "bytes": 112492,
+    "sha256": "4658e1930cf7b8e83a34e0c42990b76bc10d6aad65d6d3fcbd6ce060cbb7e552"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000056.jpg",
+    "bytes": 63681,
+    "sha256": "987fc3e2b1a4c06f12cb7f503b1671e612f8bfcdd6e39ecb92fd9ab4262fbca1"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000057.jpg",
+    "bytes": 63220,
+    "sha256": "d5dc0d0fcb7ba11914a8a9beb44b7de2732cbdaebb1fa03e3b5442703ed7bc3f"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000058.jpg",
+    "bytes": 62856,
+    "sha256": "95d19a553e5f4272700f433de1378e19050cf608acdd903e2ffaa3aecbf1d3dc"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000059.jpg",
+    "bytes": 62283,
+    "sha256": "a010231dfb6ab96eaebbd049269f5ebf3c411ecc2b43bb9e4959c00947e8f6be"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000060.jpg",
+    "bytes": 64093,
+    "sha256": "016f9b66315247776225df345a773482360c19a8faee8793ef6d0886098ea752"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000061.jpg",
+    "bytes": 65411,
+    "sha256": "e2c595778076f348369b3481a6092eceeb027f7c7108f02f50e7dc5fa9240cca"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000062.jpg",
+    "bytes": 62225,
+    "sha256": "e77a2aed3a2d95d09d3fe3adb76b70ca77c3c2010e5d18f25ad6c36e9c18c674"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000063.jpg",
+    "bytes": 63389,
+    "sha256": "3307530dd9be1700e843002b16a00058aca5000ba91779986e95a637366d87ec"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000064.jpg",
+    "bytes": 65321,
+    "sha256": "5d2bcb7f9624be22426602cacd937593bc6f0804839b01efcdb6ea8115857a42"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000065.jpg",
+    "bytes": 62390,
+    "sha256": "23ecb28c2a04e572e72938521399bd1e0229fcd250ad232f76852f036b055e00"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000066.jpg",
+    "bytes": 60244,
+    "sha256": "6b132f69a8de98b0e5436312f28d8c0bee4de0934eaf0c659b384f841c1bf2db"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000067.jpg",
+    "bytes": 64056,
+    "sha256": "4bd850a9b9c01c666fb5044ac3826a6fa23333fc51e5ed457ddd4657d7606a49"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000068.jpg",
+    "bytes": 61404,
+    "sha256": "2df362ae4ecf6a69a66b429d3c30502d6985d3a2db63dbe7af5ba9ec66b75877"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000069.jpg",
+    "bytes": 61782,
+    "sha256": "5e9272ba3830c7aa01f3dea69a80ef28c4f1a8a2163d281c42a6c50ba786a944"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000070.jpg",
+    "bytes": 60478,
+    "sha256": "5306ab2f73569dd8953e800882ebda263f0e03f3a1a766a4a163222f0d20ee0c"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000071.jpg",
+    "bytes": 60786,
+    "sha256": "10a9d11fb3cfcc793e440e018113db6fd40cc86b2692e2e35ce896320c53bd6c"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T1/I0000072.jpg",
+    "bytes": 60524,
+    "sha256": "e75529ce9c857663f76ee2c11e388316a6245ca14b7b3e6b325dc4904b20200c"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000039.jpg",
+    "bytes": 62662,
+    "sha256": "baf8e712c4a733d1a1c63c95dd343529935c166e4acddebb2f0333314b348cba"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000040.jpg",
+    "bytes": 61982,
+    "sha256": "fd2e71d2bdfb264dbbcc22958500420025b5ba37ce1a9cf7123758e15a4e0f3e"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000041.jpg",
+    "bytes": 61165,
+    "sha256": "d4e171143173c8b7efb353a29034c321ea51e63835f887c2a2a7583f8593ac85"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000042.jpg",
+    "bytes": 59695,
+    "sha256": "afa23d025d09f3fe48e8fad49c3ac26b7e6429994b3c36b5cf5fb1374e732fae"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000043.jpg",
+    "bytes": 59272,
+    "sha256": "a281aefc2087eccfc7d27715d4e469e4ec88199ba44310519f82e1b87d41ade8"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000044.jpg",
+    "bytes": 60797,
+    "sha256": "55e55a65602a6138c231d657516a874dca18a0d84a3257d642f66d0da9a4478c"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000045.jpg",
+    "bytes": 58023,
+    "sha256": "85f899aa79fd3bf309a91debad2b0ecb04f5b52ce3538a48796169d664abd414"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000046.jpg",
+    "bytes": 59428,
+    "sha256": "ea95911912a4132f52887c0b32d7b1ae0e8d7385a70e4cab10cfc6f75b8b1dc9"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000047.jpg",
+    "bytes": 59335,
+    "sha256": "1224cd4aa5775c18e1d8aa574c38b5eafd32751f7928e01953763ef27a64ac4e"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000048.jpg",
+    "bytes": 60488,
+    "sha256": "ef2a1c9c533c1e28df48537e56ea4c91391a80958a662228af858ac56712bbfd"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000049.jpg",
+    "bytes": 57305,
+    "sha256": "39e7be645abfefa293459ad76b1810f20758d19a103e5fb69a1ee029f80fb5e4"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000050.jpg",
+    "bytes": 57025,
+    "sha256": "ae3ca2c68b11d58a3d640321faa4af85f99fa1c2031f09e269e9935cded1ca8b"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000051.jpg",
+    "bytes": 60872,
+    "sha256": "81bc249914d7a92d6ba42939dde0db17423da066d64ea6fb9ddca051904bb566"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000052.jpg",
+    "bytes": 58773,
+    "sha256": "6e1d689a5581aa696b9b2e5b66b2dc0b43ed1f3cb0224dd2ed1ef57bf4ae4730"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000053.jpg",
+    "bytes": 59902,
+    "sha256": "c73f223b3685d2dae4cd7f2f7208914f353fd7b1285eaa809d6db0cbb68eb85f"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000054.jpg",
+    "bytes": 63809,
+    "sha256": "65a9f731f16252e06eaa13106109183dd266a4c4be2353b0405775cd3aa9a69c"
+  },
+  {
+    "path": "MRI 影像/2026/Ax T2 frFSE/I0000055.jpg",
+    "bytes": 57442,
+    "sha256": "ed686a52e983bc8f9ad2864cc7803fb207d26aade55a76d31a9aedb8580c1e13"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000026.jpg",
+    "bytes": 72754,
+    "sha256": "de6aa2378d06f88e604f2cf5559793672375e44603e12daf0d612ddd3b9cdb85"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000027.jpg",
+    "bytes": 75067,
+    "sha256": "1b441614137d0ab3f9035fcba89fd10216985476f7a390b21b71fe8851978906"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000028.jpg",
+    "bytes": 72576,
+    "sha256": "0c2eb937fb7b68e15ac0978c855362a5085ba6d5cacfe73ac990731d6ddae316"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000029.jpg",
+    "bytes": 76069,
+    "sha256": "fdf41bd2fab312378e17fe146a33fe841f9c1a10b2f19cd9613e565cb7011408"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000030.jpg",
+    "bytes": 71826,
+    "sha256": "1d686f5de06772106b1c39b4ba4cc9aab1f8d0197ffddfad801a235016eeeb38"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000031.jpg",
+    "bytes": 68339,
+    "sha256": "e1be67b2bc28e63ecd5e1efa9f5ee1d7dfddbf463d45ef3a343772898b806f9c"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000032.jpg",
+    "bytes": 68200,
+    "sha256": "786fe2d490603c037a002fcea85554864c010ac80298d4314fd84de98c20bca5"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000033.jpg",
+    "bytes": 65073,
+    "sha256": "84ed9aa2b1e2d6297c0dc20cf27de77564bacf2107584b04e7a3a9d476049272"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000034.jpg",
+    "bytes": 63177,
+    "sha256": "c1def4bc702543877713fc24ca86f536eab29307192a0f39492cd89d96a69eb3"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000035.jpg",
+    "bytes": 63823,
+    "sha256": "0756ce60fb949271aa1ba4f450131264d97213572abd9fadefa5a907e857d834"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000036.jpg",
+    "bytes": 62540,
+    "sha256": "eab06f6814e415e7a17459f321e8027062ba22a2043f2cbaba4ce038ece14263"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000037.jpg",
+    "bytes": 58135,
+    "sha256": "c4af49b1844433be623c0e102a5717b69b4bf6b34d56841ff0d922f5844dbcfd"
+  },
+  {
+    "path": "MRI 影像/2026/Cor STIR/I0000038.jpg",
+    "bytes": 59409,
+    "sha256": "60d99f63594aafd79f1ec92c3645364fe76b3dd0f3e610e10c50a76e98f55a94"
+  },
+  {
+    "path": "MRI 影像/2026/MetaData",
+    "bytes": 143,
+    "sha256": "8dd790efe0ecf57e66edb0103078cd83e09bb1a8d03d46354ef44a81d9584229"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000013.jpg",
+    "bytes": 43758,
+    "sha256": "644a55b96de504bdc1b6b87362b8fd50486c3a4fc4041699a494bbe1364741b0"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000014.jpg",
+    "bytes": 43959,
+    "sha256": "c02debd5af0662df535e13ad895e791a2111bf6aca0bf1f1765ba16c1911ade2"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000015.jpg",
+    "bytes": 46468,
+    "sha256": "c09aaa129548fea988f2faba2c6b0ea6888b9561087bea0daaa419ff590616a8"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000016.jpg",
+    "bytes": 47034,
+    "sha256": "b1c979712288e54b0584b15a1f08155d9f7974f57917035516e39b929143a828"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000017.jpg",
+    "bytes": 46339,
+    "sha256": "dab1e3e8f5cced06f28e1a41c0358f615bdf410b4b1bd6b0f0a077dbfcbd2fd6"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000018.jpg",
+    "bytes": 50264,
+    "sha256": "41022ab8f8b2ec10cfd3c6b6b09aeae28946f90a86d5d36b057943b2adc90730"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000019.jpg",
+    "bytes": 48356,
+    "sha256": "8f3bbb06306a991a339f8aadbe5ac2514a2aa4806c2d87c1465da2cdf9216bb5"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000020.jpg",
+    "bytes": 47236,
+    "sha256": "d1428e29524ec8f0abcba6dda01991a2fe1c2d6579b9ff34cad651aa20e3e6ad"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000021.jpg",
+    "bytes": 45037,
+    "sha256": "bae110467425275a89a486f016481f4d7a87e539eeb7126465b028a7657ce234"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000022.jpg",
+    "bytes": 44488,
+    "sha256": "9a281eb70a93f157667f2a9f267531a576657f0843cd797485b32d4760cbee8d"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000023.jpg",
+    "bytes": 44435,
+    "sha256": "fbca5d5f1f7594b779f97e605cff624a31bdb1aacc7b6a81a71b367f72b74279"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000024.jpg",
+    "bytes": 43733,
+    "sha256": "5c15c1eeb0532cacdba235301ebc200b025140941998cf19b2ae4dd6b3ff77b2"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T1 FSE/I0000025.jpg",
+    "bytes": 42276,
+    "sha256": "10a7bab0ee2fde746795fbd362ffb38cf203e9a71f5e142db281dceeba97f023"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000000.jpg",
+    "bytes": 50067,
+    "sha256": "17c24b567b1df4bd0c9f99d4caf08f1c455b7f3b1b37f9c9a926df792c1d3c32"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000001.jpg",
+    "bytes": 52977,
+    "sha256": "a573351c4965b90ce31ace5c03ba4eca089f72913af8af78e29c8f4806e4df3e"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000002.jpg",
+    "bytes": 55226,
+    "sha256": "08817272bda69be7420464cac3ebdfaa30f15442bdb4c7beab60d615b92f3ae5"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000003.jpg",
+    "bytes": 55528,
+    "sha256": "8e9aa806821b527d86e6eb70e53ee929bbcc4072a466759691b9ce9f4344f351"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000004.jpg",
+    "bytes": 53441,
+    "sha256": "b70528d15b6ab1aea7b726c4ba0e8430b739757a6c74658924eccde1979ee72c"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000005.jpg",
+    "bytes": 55437,
+    "sha256": "e69794864cdc48a9477b4f04ebc370a4166467bd51cf45c093322d215bfe03f6"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000006.jpg",
+    "bytes": 56196,
+    "sha256": "a8848ad168f7285d6025ccd79119ef016066526462e153e2abf286f7761ab355"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000007.jpg",
+    "bytes": 56207,
+    "sha256": "4d2bf3bb9d67523ab6870659ccc96a4c7e3c4424693fa9b5f27edaad32a4e270"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000008.jpg",
+    "bytes": 55327,
+    "sha256": "a62736467d268288830a3bf8d7cd8419989ed413ab5fdd4335a9c0e745b91e68"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000009.jpg",
+    "bytes": 54312,
+    "sha256": "2c840cc88d834d2cb475883768c027a1b57386142f6d879c2ba5a5b5bad5702a"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000010.jpg",
+    "bytes": 55025,
+    "sha256": "06f3b6a602fb875d5879ec5f0f342fef4e8e6297c2be0d4d92f3f63993d1fb29"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000011.jpg",
+    "bytes": 51731,
+    "sha256": "c69cd58cc8b51cf902717a606f9be2fd352a851572b7ed94966392d648c31fe1"
+  },
+  {
+    "path": "MRI 影像/2026/Sag T2 frFSE/I0000012.jpg",
+    "bytes": 54456,
+    "sha256": "3240fc8ca847ba7c9465d51c45d87400578f3f9a7e7380a26fb3637c53ea9592"
+  },
+  {
+    "path": "MRI 影像/2026/X光/KUB(Supine)/Table - 序列 1/I0000073.jpg",
+    "bytes": 1773548,
+    "sha256": "d5bd0e0a8f90b311c08c3df15f8f74f195eb3f6a0b5afa8fa2e9695e61a69056"
+  },
+  {
+    "path": "MRI 影像/2026/X光/L-S Spine Flexion+Extension Lat. View/Stand - 序列 1/I0000074.jpg",
+    "bytes": 2093462,
+    "sha256": "1cbe1df0eff992c165404eb1fbc66d2b4cc6af465c63f741178c0c73155cc7f0"
+  },
+  {
+    "path": "MRI 影像/2026/X光/L-S Spine Flexion+Extension Lat. View/Stand - 序列 2/I0000075.jpg",
+    "bytes": 1910017,
+    "sha256": "e01d390ee5833700622365e26486bce12b662cb1853b7d3d418666cf576bb826"
+  },
+  {
+    "path": "元氣診所病歷/原始照片/IMG_1749.HEIC",
+    "bytes": 2371434,
+    "sha256": "681c5fb3a2f0601986a399ce94dfda41e5c730eee3def57fabeae8d17e6c8c67"
+  },
+  {
+    "path": "元氣診所病歷/原始照片/IMG_1750.HEIC",
+    "bytes": 3036191,
+    "sha256": "7dfd930f7b857941a7fd50f3f2c567a9a9a0818b34f31c39ad56fd958fc5e7a5"
+  },
+  {
+    "path": "元氣診所病歷/原始照片/IMG_1751.HEIC",
+    "bytes": 3232178,
+    "sha256": "c0ae7b48f9518ef723efb9f34638cc44b13ffbf75b2e2f6c15b4fbf804e7ac96"
+  },
+  {
+    "path": "元氣診所病歷/原始照片/IMG_1752.HEIC",
+    "bytes": 2645990,
+    "sha256": "d1e22409a27701991406d84bd40901461c926bce8f48e4506b750ae135f0928b"
+  },
+  {
+    "path": "元氣診所病歷/病歷轉錄.md",
+    "bytes": 9007,
+    "sha256": "797dd037c1c1fa36a607145344271f813774e8218142732ec19723e813d53002"
+  },
+  {
+    "path": "影像或病理報告/無影像檔_影像或病理報告_2025-2026.txt",
+    "bytes": 25251,
+    "sha256": "8b7611e1da8525d51bb087682a6065e8a7846375209677d7976b1a1357b43ffa"
+  },
+  {
+    "path": "血液檢驗資料/血液檢驗明細_2025-12-09_2026-09-10.xlsx",
+    "bytes": 8924,
+    "sha256": "6802f7e086c3a95699a4feb2121fdd9217aa11dbf7ad988b7310c7407499d233"
+  }
+]

@@ -1,0 +1,258 @@
+無影像檔檢查的影像或病理報告內容
+來源：全民健康保險健康存摺「影像或病理檢查報告」詳細資料
+擷取日期：2026-09-25
+範圍：列表共 34 筆，其中「無影像檔」23 筆；以下逐筆照原網頁記錄。
+同日期、同項目但分列顯示的資料，依列表順序分別保留。
+
+01. 115/09/04｜磁振造影－無造影劑
+列表第 3 筆；影像檔：無影像檔
+醫事機構：林口長庚
+醫囑代碼：33084B
+就醫日期／入院日期：115/09/04
+醫事機構上傳報告時間：115/09/07 23:09
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+Clinical Information: A 24 Y／O male with lower back and neck pain off and on for months, bilateral legs numbness, weakness and intermittent claudicaiton, especially right leg. Magnetic Resonance Imaging of MRI of L-S spine, Show:  1. Decreased signal intensity of the disc at the levels of T12-L4 on T2WI, indicative of degenerative disc disease. 2. A T1, T2 hyperintense lesion in L2 vertebral body (0.7 cm, Se3 Im8), indicative of a lipoma.3. Multiple schmorl nodes in T11 to L5 endplates.4.  No definite abnormal intensity in the visualized spinal cord.       IMP:  Multiple schmorl nodes in T11 to L5 endplates, suggestive of lumbar variant of Schuerumanns disease.
+
+02. 115/09/04｜脊椎檢查（包括各種角度部位之頸椎、胸椎、腰椎、薦椎、尾骨及薦髂關節等之檢查）
+列表第 10 筆；影像檔：無影像檔
+醫事機構：林口長庚
+醫囑代碼：32012C
+就醫日期／入院日期：115/09/04
+醫事機構上傳報告時間：115/09/10 23:09
+醫療輻射參考劑量：2.077 毫西弗
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+Radiography of L-S Spine Flexion+Extension Lat. View,KUB(Supine) Show:Focal erosion with sclerosis of upper endplate L3 vertebra,.Narrowed L2 and L3 disk.A focal erosion in lower endplate L1 vertebra.
+
+03. 115/09/04｜腎臟、輸尿管、膀胱檢查
+列表第 11 筆；影像檔：無影像檔
+醫事機構：林口長庚
+醫囑代碼：32006C
+就醫日期／入院日期：115/09/04
+醫事機構上傳報告時間：115/09/09 23:09
+醫療輻射參考劑量：1.275 毫西弗
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+Radiography of L-S Spine Flexion+Extension Lat. View,KUB(Supine) Show:Focal erosion with sclerosis of upper endplate L3 vertebra,.Narrowed L2 and L3 disk.A focal erosion in lower endplate L1 vertebra.
+
+04. 115/09/04｜脊椎檢查（包括各種角度部位之頸椎、胸椎、腰椎、薦椎、尾骨及薦髂關節等之檢查）
+列表第 12 筆；影像檔：無影像檔
+醫事機構：林口長庚
+醫囑代碼：32011C
+就醫日期／入院日期：115/09/04
+醫事機構上傳報告時間：115/09/10 23:09
+醫療輻射參考劑量：1.454 毫西弗
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+Radiography of L-S Spine Flexion+Extension Lat. View,KUB(Supine) Show:Focal erosion with sclerosis of upper endplate L3 vertebra,.Narrowed L2 and L3 disk.A focal erosion in lower endplate L1 vertebra.
+
+05. 115/03/11｜免疫組織化學染色(每一抗體)
+列表第 13 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：25012B
+就醫日期／入院日期：115/03/09
+醫事機構上傳報告時間：115/03/13 01:26
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+病理發現: Gross Descrition: Received in formalin, labeled with patient`s name and chart number, consists of 1 fragment of grey soft tissue measuring 2 x 4 x 3 mm. Entirely submitted in one cassette. Microscopic Description: The colonic mucosa shows benign polypoid colonic mucosa with lymphoid aggregate in the lamina propria. There is no evidence of carcinoma. CD3: positive on T cells CD20: positive on B cells 病理診斷結果:非惡性
+
+06. 115/03/11｜免疫組織化學染色(每一抗體)
+列表第 14 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：25012B
+就醫日期／入院日期：115/03/09
+醫事機構上傳報告時間：115/03/13 01:26
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+病理發現: Gross Descrition: Received in formalin, labeled with patient`s name and chart number, consists of 1 fragment of grey soft tissue measuring 2 x 4 x 3 mm. Entirely submitted in one cassette. Microscopic Description: The colonic mucosa shows benign polypoid colonic mucosa with lymphoid aggregate in the lamina propria. There is no evidence of carcinoma. CD3: positive on T cells CD20: positive on B cells 病理診斷結果:非惡性
+
+07. 115/03/11｜免疫組織化學染色(每一抗體)
+列表第 15 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：25012B
+就醫日期／入院日期：115/03/09
+醫事機構上傳報告時間：115/04/23 11:55
+醫療輻射參考劑量：-
+資料來源：B-特約醫事機構定期上傳
+影像或病理報告內容：
+病理發現: Gross Descrition: Received in formalin, labeled with patient`s name and chart number, consists of 1 fragment of grey soft tissue measuring 2 x 4 x 3 mm. Entirely submitted in one cassette. Microscopic Description: The colonic mucosa shows benign polypoid colonic mucosa with lymphoid aggregate in the lamina propria. There is no evidence of carcinoma. CD3: positive on T cells CD20: positive on B cells 病理診斷結果:非惡性
+
+08. 115/03/11｜免疫組織化學染色(每一抗體)
+列表第 16 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：25012B
+就醫日期／入院日期：115/03/09
+醫事機構上傳報告時間：115/04/23 11:55
+醫療輻射參考劑量：-
+資料來源：B-特約醫事機構定期上傳
+影像或病理報告內容：
+病理發現: Gross Descrition: Received in formalin, labeled with patient`s name and chart number, consists of 1 fragment of grey soft tissue measuring 2 x 4 x 3 mm. Entirely submitted in one cassette. Microscopic Description: The colonic mucosa shows benign polypoid colonic mucosa with lymphoid aggregate in the lamina propria. There is no evidence of carcinoma. CD3: positive on T cells CD20: positive on B cells 病理診斷結果:非惡性
+
+09. 115/03/09｜第四級外科病理
+列表第 17 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：25004C
+就醫日期／入院日期：115/03/09
+醫事機構上傳報告時間：115/03/13 01:26
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+病理發現: Gross Descrition: Received in formalin, labeled with patient`s name and chart number, consists of 1 fragment of grey soft tissue measuring 2 x 4 x 3 mm. Entirely submitted in one cassette. Microscopic Description: The colonic mucosa shows benign polypoid colonic mucosa with lymphoid aggregate in the lamina propria. There is no evidence of carcinoma. CD3: positive on T cells CD20: positive on B cells 病理診斷結果:非惡性
+
+10. 114/12/11｜周邊動靜脈血管超音波檢查
+列表第 18 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：18041B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/13 01:25
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 週邊動脈血管超音波 檢查報告單 R’t Side [ EIA ] [ CFA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ SFA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ PFA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ POPA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ ATA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ PTA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ Pero A ] [ D.P ] duplex waveform：Biphasic esumated stenosis rate：20-49% Stenosis [ 其他 ] [ 總結 ] no significant artery stenosis [ 建議 ] L’t Side [ EIA ] [ CFA ] [ SFA ] [ PFA ] [ POPA ] [ ATA ] [ PTA ] [ Pero A ] [ D.P ] [ 其他 ] [ 總結 ] [ 建議 ]
+
+11. 114/12/11｜周邊動靜脈血管超音波檢查
+列表第 19 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：18041B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/13 01:25
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 週邊靜脈血管超音波 檢查報告單 R’t Side SFJ Reflux： [ CFV ] Thrombus：patent [ SFV ] Thrombus：patent [ Pop.V ] Thrombus：patent [ GSV ] [ LSV ] [ 其他 ] [ 總結 ] 無深部靜脈血栓 [ 建議 ] L’t Side SFJ Reflux： [ CFV ] [ SFV ] [ Pop.V ] [ GSV ] [ LSV ] [ 其他 ] [ 總結 ] [ 建議 ]
+
+12. 114/12/11｜周邊動靜脈血管超音波檢查
+列表第 20 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：18041B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/13 01:25
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 週邊動脈血管超音波 檢查報告單 R’t Side [ EIA ] [ CFA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ SFA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ PFA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ POPA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ ATA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ PTA ] duplex waveform：Triphasic esumated stenosis rate：0-20% Stenosis [ Pero A ] [ D.P ] duplex waveform：Biphasic esumated stenosis rate：20-49% Stenosis [ 其他 ] [ 總結 ] no significant artery stenosis [ 建議 ] L’t Side [ EIA ] [ CFA ] [ SFA ] [ PFA ] [ POPA ] [ ATA ] [ PTA ] [ Pero A ] [ D.P ] [ 其他 ] [ 總結 ] [ 建議 ]
+
+13. 114/12/11｜周邊動靜脈血管超音波檢查
+列表第 21 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：18041B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/13 01:25
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 週邊靜脈血管超音波 檢查報告單 R’t Side SFJ Reflux： [ CFV ] Thrombus：patent [ SFV ] Thrombus：patent [ Pop.V ] Thrombus：patent [ GSV ] [ LSV ] [ 其他 ] [ 總結 ] 無深部靜脈血栓 [ 建議 ] L’t Side SFJ Reflux： [ CFV ] [ SFV ] [ Pop.V ] [ GSV ] [ LSV ] [ 其他 ] [ 總結 ] [ 建議 ]
+
+14. 114/12/10｜F波
+列表第 24 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20023B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/11 01:29
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+15. 114/12/10｜感覺神經傳導速度測定
+列表第 25 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20019B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/11 01:29
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+16. 114/12/10｜F波
+列表第 26 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20023B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/11 01:29
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+17. 114/12/10｜H反射
+列表第 27 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20024B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/11 01:29
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+18. 114/12/10｜感覺神經傳導速度測定
+列表第 28 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20019B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：115/02/12 12:33
+醫療輻射參考劑量：-
+資料來源：B-特約醫事機構定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+19. 114/12/10｜感覺神經傳導速度測定
+列表第 29 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20019B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/11 01:29
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+20. 114/12/10｜F波
+列表第 30 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20023B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：115/02/12 12:33
+醫療輻射參考劑量：-
+資料來源：B-特約醫事機構定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+21. 114/12/10｜運動神經傳導測定－ 下肢
+列表第 31 筆；影像檔：無影像檔
+醫事機構：亞東醫院
+醫囑代碼：20016B
+就醫日期／入院日期：114/12/09
+醫事機構上傳報告時間：114/12/11 01:29
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+開單日期：2025-12-09 NCV 檢查報告單 [ Subject ] 　　S/S occured since 2025/8(military service), usually on Friday, subsided 2-3 days, every month 　　Right LBP with coccyx and buttock and ant-lateral thigh pain when thigh swelling recurred after alcohol drinking/TGIF and prolonged lower sitting(movie) and standing(MRT) on 12/5 　　Swimming:QW3, RLE strengthening on 12/2 　　Initial coughing pain:+ 　　Right LBP with radiating pain the buttock and whole thigh with weakness in hip flexion in 2025/8 during military service for 4 months(2025/5-9) after rope jumping [ Object ] 　　SLRT:-, Patrick:-, FADIR:+++(identaical) [ Report ] 　　Motor conduction studies of both lower limbs revealed normal CMAP amplitudes with normal distal latencies and normal NCVs at leg / knee segments on bilateral peroneal nerves; normal CMAP amplitudes with normal distal latencies and normal NCVs on bilateral tibial nerves. 　　Sensory conduction studies showed normal SNAP amplitude with normal distal latencies / normal NCVs on bilateral sural nerves. 　　H-reflex latencies on both sides and F-wave latencies of bilateral peroneal and bilaeral tibial nerves were normal. 　　Impression: Normal nerve conduction studies of both lower limbs.
+
+22. 114/08/07｜磁振造影－無造影劑
+列表第 32 筆；影像檔：無影像檔
+醫事機構：中國附醫
+醫囑代碼：33084B
+就醫日期／入院日期：114/08/07
+醫事機構上傳報告時間：114/09/16 14:40
+醫療輻射參考劑量：-
+資料來源：B-特約醫事機構定期上傳
+影像或病理報告內容：
+MRI of L-Spine with -3-Plane Localizer, Sag T2 frFSE, Sag T2 FSE STIR DL, Sag T1 FLAIR, Ax T2 FSE DL, Sag loc up SSFSE, Screen Save The disc were extruded into the L1 and L3 upper, L1 and L2 lower endplates. The alignment of thoracolumbar spine was acceptable. The facet joint was not hypertrophy. The paraspinal soft tissue was not swelling. There was no abnormal signal change of the spinal cord. 1) Schmorl’s nodes in the L1 and L3 upper, L1 and L2 lower endplates. 林昭君(放診專字第0622號)
+
+23. 114/08/07｜磁振造影－無造影劑
+列表第 33 筆；影像檔：無影像檔
+醫事機構：中國附醫
+醫囑代碼：33084B
+就醫日期／入院日期：114/08/07
+醫事機構上傳報告時間：114/08/08 13:04
+醫療輻射參考劑量：-
+資料來源：A-特約醫事機構不定期上傳
+影像或病理報告內容：
+MRI of L-Spine with -3-Plane Localizer, Sag T2 frFSE, Sag T2 FSE STIR DL, Sag T1 FLAIR, Ax T2 FSE DL, Sag loc up SSFSE, Screen Save The disc were extruded into the L1 and L3 upper, L1 and L2 lower endplates. The alignment of thoracolumbar spine was acceptable. The facet joint was not hypertrophy. The paraspinal soft tissue was not swelling. There was no abnormal signal change of the spinal cord. 1) Schmorl’s nodes in the L1 and L3 upper, L1 and L2 lower endplates. 林昭君(放診專字第0622號)
